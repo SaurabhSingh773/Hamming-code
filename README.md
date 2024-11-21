@@ -1,4 +1,4 @@
-# Hamming-code
+# Hamming-code in C
 Hamming Code is an error-detecting and error-correcting code that was invented by Richard Hamming in 1950. It allows for detection and correction of single-bit errors in transmitted data, making it highly useful in digital communication and data storage systems.
 Key Concepts
 Redundant Bits: Hamming Code uses extra (redundant) bits inserted at specific positions in the data to ensure error detection and correction. These bits are added in such a way that allows for the identification and correction of single-bit errors.
